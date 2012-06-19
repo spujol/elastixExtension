@@ -7,7 +7,7 @@ set(MODULE_NAME elastixExtension) # Do not use 'project()'
 set(MODULE_HOMEPAGE "http://www.slicer.org/slicerWiki/index.php/Documentation/Snapshot/Developers/Tutorials/ExtensionWriting")
 set(MODULE_CATEGORY "Examples")
 set(MODULE_STATUS "Beta")
-set(MODULE_CONTRIBUTORS "Julien Jomier (Kitware), Stephen Aylward (Kitware), Jean-Christophe Fillion-Robin (Kitware)")
+set(MODULE_CONTRIBUTORS "Sonia Pujol")
 set(MODULE_DESCRIPTION "This is an example of CLI module built as an extension")
 set(MODULE_ICONURL "http://viewvc.slicer.org/viewvc.cgi/Slicer4/trunk/Extensions/Testing/elastixExtension/elastixExtension.png?revision=19437&view=co")
 set(MODULE_SCREENSHOTURLS "http://wiki.slicer.org/slicerWiki/images/a/ab/Slicer-r19441-elastixExtension-screenshot.png http://wiki.slicer.org/slicerWiki/images/1/1e/Slicer-r19441-elastixExtension-screenshot-2.png")
